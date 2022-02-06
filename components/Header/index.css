@@ -1,0 +1,16 @@
+.user-list {
+  font-family: "roboto";
+  text-align: center;
+}
+.Users-list-container {
+  border-style: solid;
+  border-color: rgb(162, 171, 189);
+  padding: 15px;
+}
+
+.products-loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 60vh;
+}
